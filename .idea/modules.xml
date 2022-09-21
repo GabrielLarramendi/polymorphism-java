@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classes-abstratas/classes-abstratas.iml" filepath="$PROJECT_DIR$/classes-abstratas/classes-abstratas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise01_employee/ex_fixacao.iml" filepath="$PROJECT_DIR$/exercise01_employee/ex_fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-final-classes-e-metodos-abstratos/exercicio-final-classes-e-metodos-abstratos.iml" filepath="$PROJECT_DIR$/exercicio-final-classes-e-metodos-abstratos/exercicio-final-classes-e-metodos-abstratos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise02_products/exercise02_products.iml" filepath="$PROJECT_DIR$/exercise02_products/exercise02_products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca-aula01/heranca-aula01.iml" filepath="$PROJECT_DIR$/heranca-aula01/heranca-aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca_e_polimorfismo.iml" filepath="$PROJECT_DIR$/heranca_e_polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos-abstratos/metodos-abstratos.iml" filepath="$PROJECT_DIR$/metodos-abstratos/metodos-abstratos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sobreposicao_super_override_final/sobreposicao_super_override.iml" filepath="$PROJECT_DIR$/sobreposicao_super_override_final/sobreposicao_super_override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upCasting-downCasting/upCasting-downCasting.iml" filepath="$PROJECT_DIR$/upCasting-downCasting/upCasting-downCasting.iml" />
+    </modules>
+  </component>
+</project>
